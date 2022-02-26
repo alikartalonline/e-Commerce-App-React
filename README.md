@@ -1,19 +1,19 @@
 # e-Commerce-App-React
 
 
-#### E-Commerce App : ["ClicktoWork"](https://alikartalonline-ecommerce.netlify.app/)
+#### E-Commerce App : ["ClicktoView"](https://alikartalonline-ecommerce.netlify.app/)
 
 ```
 Register: Kayıt olabilirsiniz
 Login: Backend olmadığı için şu an çalışmıyor
 Profile: Register tamamlandıktan sonra bu sayfadan profil bilgilerinizi görebilir, "logout" olabilirsiniz
-Products: İle ürünleri görebilirsiniz
+Products: Anasayfadaki ürünlerimiz olan kitapları, görsellerini, fiyatlarını görebilir, sepete eklyebilirsiniz
 Add to Basket: Register ile kayıt olduktan sonra sepete ürün ekleyebilir, ürün silebilirsiniz
 Light/Dark: Header bölümünde bulunan logolar ile arkaplan rengini değiştirebilirsiniz
 Not: Ürün resimlerine tıklayarak ürün bilgilerine ve resimlerine erişebilirsiniz
 ```
 
-![eCommerce](https://github.com/alikartalonline/e-Commerce-App-React/gif)
+![eCommerce](https://github.com/alikartalonline/e-Commerce-App-React/tree/main/gif/ecommerce.gif)
 
 <br>
 
