@@ -31,6 +31,8 @@ Not: Ürün resimlerine tıklayarak ürün bilgilerine ve resimlerine erişebili
 
 * Kullanıcı kayıt işlemleri için "formik" kullanılmıştır.
 
+<br>
+
 ```
 Chakra UI (v1.8.5): chakra-ui.com
 React Query: react-query.tanstack.com
