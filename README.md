@@ -1,7 +1,7 @@
 # e-Commerce-App-React
 
 
-#### E-Commerce App : ["ClicktoWork"](https://alikartalonline-ecommerce.netlify.app/)
+#### E-Commerce App : ["ClicktoView"](https://alikartalonline-ecommerce.netlify.app/)
 
 ```
 Register: Kayıt olabilirsiniz
@@ -13,7 +13,7 @@ Light/Dark: Header bölümünde bulunan logolar ile arkaplan rengini değiştire
 Not: Ürün resimlerine tıklayarak ürün bilgilerine ve resimlerine erişebilirsiniz
 ```
 
-![eCommerce](https://github.com/alikartalonline/e-Commerce-App-React/gif)
+![eCommerce](https://github.com/alikartalonline/e-Commerce-App-React/tree/main/gif)
 
 <br>
 
