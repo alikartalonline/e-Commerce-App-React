@@ -14,6 +14,8 @@ Not: Ürün resimlerine tıklayarak ürün bilgilerine ve resimlerine erişebili
 ```
 
 ![eCommerce](https://github.com/alikartalonline/e-Commerce-App-React/tree/main/gif/ecommerce.gif)
+![eCommerce](https://github.com/alikartalonline/e-Commerce-App-React/tree/main/png/e1.png)
+
 
 <br>
 
