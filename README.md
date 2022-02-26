@@ -13,7 +13,7 @@ Light/Dark: Header bölümünde bulunan logolar ile arkaplan rengini değiştire
 Not: Ürün resimlerine tıklayarak ürün bilgilerine ve resimlerine erişebilirsiniz
 ```
 
-![eCommerce](https://github.com/alikartalonline/e-Commerce-App-React/tree/main/gif)
+![eCommerce](https://github.com/alikartalonline/e-Commerce-App-React/tree/main/ecommerce.gif)
 
 <br>
 
