@@ -1,0 +1,40 @@
+.nav{
+    padding: 13px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px #e2e8f0;
+    line-height: 2px;
+    align-items: center;
+}
+
+.nav .left{
+    display: flex;
+}
+
+.nav .left .menu{
+    display: flex;
+    /* margin-left: 2px ; */
+}
+
+.nav .left .menu li  {
+  color: #4a5568;
+  text-decoration: none;
+  font-size: 1.1rem;
+  display: block;
+  padding: 3px 16px;
+  font-weight: 500;
+}
+
+.nav .left .menu li:hover{
+     color: black
+}
+
+.nav .right a:first-child{
+    margin-right: 5px;
+}
+
+.nav .left .menu li:first-child{
+    font-weight: bold;
+
+}
+
